@@ -194,6 +194,15 @@ Scheme
 				"weight"	"500"
 			}
 		}
+		"DefaultBold"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				"weight"	"1000"
+			}
+		}
 		"DefaultUnderline"
 		{
 			"1"

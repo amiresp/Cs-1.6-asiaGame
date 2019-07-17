@@ -1,0 +1,173 @@
+"filters"
+{
+	"favorites"
+	{
+		"0"
+		{
+			"name"		"ASia-Game.OrG | Public .::TOP PLaYer's ServeR::."
+			"address"	"5.63.10.195:27015"
+			"lastplayed"	"1507497183"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"1"
+		{
+			"name"		"ASia-Game.OrG | Public #2 Server [+ Update]"
+			"address"	"5.63.10.195:27013"
+			"lastplayed"	"1507497357"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"2"
+		{
+			"name"		"ASia-Game.OrG | Public #3 Server [+ Update]"
+			"address"	"5.63.10.195:27022"
+			"lastplayed"	"1507497362"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"3"
+		{
+			"name"		"ASia-Game.OrG | Public #4 Server [+ Update]"
+			"address"	"5.63.10.195:27012"
+			"lastplayed"	"1507497373"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"4"
+		{
+			"name"		"ASia-Game.OrG | Aim-Awp-CTF Server"
+			"address"	"5.63.10.195:27018"
+			"lastplayed"	"1507497379"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"5"
+		{
+			"name"		"ASia-Game.OrG | DeathMatch Server"
+			"address"	"5.63.10.195:27025"
+			"lastplayed"	"1507497386"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"6"
+		{
+			"name"		"ASia-Game.OrG | GunGame Server [+Update]"
+			"address"	"5.63.10.195:27016"
+			"lastplayed"	"1507497391"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"7"
+		{
+			"name"		"ASia-Game.OrG | GunGame #2 Server"
+			"address"	"5.63.10.195:28016"
+			"lastplayed"	"1507497399"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"8"
+		{
+			"name"		"ASia-Game.OrG | Zombie Server [Update]"
+			"address"	"5.63.10.195:27017"
+			"lastplayed"	"1507497406"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"9"
+		{
+			"name"		"ASia-Game.OrG | Jailbreak Server"
+			"address"	"5.63.10.195:27019"
+			"lastplayed"	"1507497409"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"10"
+		{
+			"name"		"ASia-Game.OrG | Multimod Server *Nightcrawler*"
+			"address"	"5.63.10.195:27023"
+			"lastplayed"	"1507497416"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"11"
+		{
+			"name"		"ASia-Game.OrG | Knife Server"
+			"address"	"5.63.10.195:27021"
+			"lastplayed"	"1507497424"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"12"
+		{
+			"name"		"ASia-Game.OrG | Football Server"
+			"address"	"5.63.10.195:27090"
+			"lastplayed"	"1507497429"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"13"
+		{
+			"name"		"ASia-Game.OrG | Deathrun Server"
+			"address"	"5.63.10.195:27020"
+			"lastplayed"	"1507497435"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"14"
+		{
+			"name"		"ASia-Game.OrG | Kreedz Server"
+			"address"	"5.63.10.195:27024"
+			"lastplayed"	"1507497442"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"15"
+		{
+			"name"		"ASia-Game.OrG | HideNSeek Server"
+			"address"	"5.63.10.195:27026"
+			"lastplayed"	"1507497445"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+		"16"
+		{
+			"name"		"ASia-Game.OrG | MatCh Server"
+			"address"	"5.63.10.195:27014"
+			"lastplayed"	"1507497451"
+			"appID"		"0"
+			"gamedir"		"cstrike"
+		}
+
+	}
+
+	"history"
+	{
+		"0"
+		{
+			"name"		"192.168.1.100:27015"
+			"address"	"192.168.1.100:27015"
+			"lastplayed"	"1507554591"
+			"appID"		"0"
+			"gamedir"		""
+		}
+
+	}
+
+}

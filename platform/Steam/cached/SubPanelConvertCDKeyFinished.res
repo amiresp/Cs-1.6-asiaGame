@@ -13,7 +13,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"Congratulations!  You now have access to all of VALVe's content."
+		"labelText"		"#Steam_AccessToAllValvesContent"
 		"textAlignment"		"west"
 		"dulltext"		"0"
 		"brighttext"		"0"

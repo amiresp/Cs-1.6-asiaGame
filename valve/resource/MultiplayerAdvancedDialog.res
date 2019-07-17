@@ -18,9 +18,9 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"Cancel"
-		"xpos"		"396"
+		"xpos"		"388"
 		"ypos"		"338"
-		"wide"		"64"
+		"wide"		"72"
 		"tall"		"24"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -37,9 +37,9 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"OK"
-		"xpos"		"328"
+		"xpos"		"308"
 		"ypos"		"338"
-		"wide"		"64"
+		"wide"		"72"
 		"tall"		"24"
 		"autoResize"		"0"
 		"pinCorner"		"0"

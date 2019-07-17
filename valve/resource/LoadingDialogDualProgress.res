@@ -140,7 +140,7 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"tabPosition"		"0"
-		"labelText"		"Downloading file 'maps/de_dust3.bsp'"
+		"labelText"		" "
 		"textAlignment"		"west"
 		"dulltext"		"1"
 		"brighttext"		"0"

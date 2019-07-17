@@ -4,8 +4,6 @@
 	// steam app id's
 	"Apps"
 	{
-		// half-life
-
 		// Condition Zero
 		"80"
 		{
@@ -14,18 +12,21 @@
 			"icon2"		"steam/games/icon_cz_dull"
 			"primarycache" 	"81"	// Base Condition Zero Content
 			"dependantOnApp" "10" // Counter-Strike
-			"developer"		"Valve, et al"
+			"developer"		"Valve"
 			"homepage"		"http://www.cs-conditionzero.com/"
-			"sellpage"		"http://www.steampowered.com/platform/game_info/czero/"
+			"sellpage"		"#SteamUI_CZ_SellPage"
+			"initialsellpage"	"#SteamUI_CZ_InitialPage"
+			"preloadsellpage"	"#SteamUI_CZ_PreloadPage"
+			"releasedpage"	"#SteamUI_CZ_ReleasedPage"
 			"serverbrowsername"		"Condition Zero"
 		}
 		// Condition Zero Deleted Scenes
-		"82"
+		"100"
 		{
 			"gamedir"	"czeror"
 			"icon"		"steam/games/icon_cz"
 			"icon2"		"steam/games/icon_cz_dull"
-			"primarycache" "82"	// itself
+			"primarycache" "101"	// itself
 			"dependantOnApp" "70" // Half-Life
 			"developer"		"Ritual"
 			"homepage"		"http://www.cs-conditionzero.com/"
@@ -124,4 +125,12 @@
 		"5"
 		{
 			"gamedir"	"valve"
-			"icon"		"steam/games/icon_dedicated"
+			"icon"		"steam/games/icon_dedicated"
+			"icon2"		"steam/games/icon_dedicated_dull"
+			"NoServers" "1"		// this is not a game that shows up in the server browser you don't play dedicated server, you join them
+			"primarycache" "5"	// primary cache is itself for hlds
+			"developer"		"Valve"
+			"homepage"		"http://www.steampowered.com/"
+		}
+	}
+}

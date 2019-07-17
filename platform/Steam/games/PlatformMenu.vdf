@@ -10,6 +10,13 @@
 			"MenuName"	"#App_Games"
 			"SteamApp"  "1"
 		}
+		"Storefront"
+		{
+			"dll"		"steamUI.dll"
+			"interface"	"SteamUIStorefront001"
+			"MenuName"	"#App_Storefront"
+			"SteamApp"  "1"
+		}
 		"Friends"
 		{
 			"dll"		"Friends/trackerUI.dll"

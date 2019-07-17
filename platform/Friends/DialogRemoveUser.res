@@ -32,9 +32,9 @@
 	{
 		"ControlName"		"Button"
 		"fieldName"		"OK"
-		"xpos"		"236"
+		"xpos"		"220"
 		"ypos"		"180"
-		"wide"		"100"
+		"wide"		"116"
 		"tall"		"24"
 		"autoResize"		"0"
 		"pinCorner"		"0"
@@ -103,5 +103,6 @@
 		"textAlignment"		"west"
 		"dulltext"		"1"
 		"brighttext"		"0"
+		"wrap"			"1"
 	}
 }

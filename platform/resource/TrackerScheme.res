@@ -1,54 +1,43 @@
-//
-// TRACKER SCHEME RESOURCE FILE
-//
-// sections:
-//		colors			- all the colors used by the scheme
-//		basesettings	- contains settings for app to use to draw controls
-//		fonts			- list of all the fonts used by app
-//		borders			- description of all the borders
-//
-// notes:
-// 		hit ctrl-alt-shift-R in the app to reload this file
-//
+//steelseries BLUE EDITION GUI by 2MoRRoW
 Scheme
 {
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
 		// base colors
-		"BaseText"			"216 222 211 255"	// used in text windows, lists
+		"BaseText"		"255 255 255 255"	// used in text windows, lists
 		"BrightBaseText"	"255 255 255 255"	// brightest text
 		"SelectedText"		"255 255 255 255"	// selected text
-		"DimBaseText"		"160 170 149 255"	// dim base text
-		"LabelDimText"		"160 170 149 255"	// used for info text
-		"ControlText"		"216 222 211 255"	// used in all text controls
-		"BrightControlText"	"196 181 80 255"	// use for selected controls
-		"DisabledText1"		"117 128 111 255"	// disabled text
-		"DisabledText2"		"40 46 34 255"		// overlay color for disabled text (to give that inset look)
-		"DimListText"		"117 134 102 255"	// offline friends, unsubscribed games, etc.
+		"DimBaseText"		"155 155 155 255"	// dim base text
+		"LabelDimText"		"255 255 255 255"		// used for info text
+		"ControlText"		"255 255 255 255"	// used in all text controls
+		"BrightControlText"	"255 0 0 255"		// use for selected controls
+		"DisabledText1"		"50 50 50 255"		// disabled text
+		"DisabledText2"		"0 0 0 255"		// overlay color for disabled text (to give that inset look)
+		"DimListText"		"25 25 25 255"		// offline friends, unsubscribed games, etc.
 
 		// background colors
-		"ControlBG"			"76 88 68 255"		// background color of controls
-		"ControlDarkBG"		"90 106 80 255"		// darker background color; used for background of scrollbars
-		"WindowBG"			"62 70 55 255"		// background color of text edit panes (chat, text entries, etc.)
-		"SelectionBG"		"149 136 49 255"	// background color of any selected text or menu item
-		"SelectionBG2"		"40 46 34 255"		// selection background in window w/o focus
-		"ListBG"			"62 70 55 255"		// background of server browser, buddy list, etc.
+		"ControlBG"		"20 20 20 255"		// background color of controls
+		"ControlDarkBG"		"37 37 37 255"		// darker background color; used for background of scrollbars
+		"WindowBG"		"35 35 35 255"		// background color of text edit panes (chat, text entries, etc.)
+		"SelectionBG"		"255 0 0 120"	        // background color of any selected text or menu item
+		"SelectionBG2"		"20 20 20 255"		// selection background in window w/o focus
+		"ListBG"		"35 35 35 255"		// background of server browser, buddy list, etc.
 
 		// titlebar colors
-		"TitleText"			"255 255 255 255"
-		"TitleDimText"		"136 145 128 255"
-		"TitleBG"			"76 88 68 0"
-		"TitleDimBG"		"76 88 68 0"
+		"TitleText"		"153 153 153 255"
+		"TitleDimText"		"153 153 153 255"
+		"TitleBG"		"0 0 0 0"
+		"TitleDimBG"		"0 0 0 0"
 		
 		// slider tick colors
-		"SliderTickColor"	"127 140 127 255"
-		"SliderTrackColor"	"31 31 31 255"
+		"SliderTickColor"	"75 75 75 255"
+		"SliderTrackColor"	"102 102 102 255"
 
 		// border colors
-		"BorderBright"		"136 145 128 255"	// the lit side of a control
-		"BorderDark"		"40 46 34 255"		// the dark/unlit side of a control
-		"BorderSelection"	"0 0 0 255"			// the additional border color for displaying the default/selected button
+		"BorderBright"		"37 37 37 175"		// the lit side of a control
+		"BorderDark"		"30 30 30 175"		// the dark/unlit side of a control
+		"BorderSelection"	"0 0 0 255"		// the additional border color for displaying the default/selected button
 	}
 
 	///////////////////// BASE SETTINGS ////////////////////////
@@ -63,7 +52,7 @@ Scheme
 
 		"DisabledFgColor1"		"DisabledText1" 
 		"DisabledFgColor2"		"DisabledText2"			// set this to the BgColor if you don't want it to draw
-
+		
 		"TitleBarFgColor"			"TitleText"
 		"TitleBarDisabledFgColor"	"TitleDimText"
 		"TitleBarBgColor"			"TitleBG"
@@ -72,10 +61,10 @@ Scheme
 		"TitleBarIcon"				"resource/icon_steam"
 		"TitleBarDisabledIcon"		"resource/icon_steam_disabled"
 
-		"TitleButtonFgColor"			"BorderBright"
-		"TitleButtonBgColor"			"ControlBG"
-		"TitleButtonDisabledFgColor"	"TitleDimText"
-		"TitleButtonDisabledBgColor"	"TitleDimBG"
+		"TitleButtonFgColor"			"255 0 0 255"
+		"TitleButtonBgColor"			"20 20 20 255"
+		"TitleButtonDisabledFgColor"	"255 0 0 255"
+		"TitleButtonDisabledBgColor"	"20 20 20 255"
 
 		"TextCursorColor"			"BaseText"			// color of the blinking text cursor in text entries
 		"URLTextColor"				"BrightBaseText"	// color that URL's show up in chat window
@@ -163,11 +152,11 @@ Scheme
 
 		InGameDesktop
 		{
-			"MenuColor"			"200 200 200 255"
-			"ArmedMenuColor"	"255 255 255 255"
-			"DepressedMenuColor" "192 186 80 255"
+			"MenuColor"			"255 255 255 255"
+			"ArmedMenuColor"	"255 0 0 255"
+			"DepressedMenuColor" "200 200 200 255"
 			"WidescreenBarColor" "0 0 0 0"
-			"MenuItemVisibilityRate" "0.03"  // time it takes for one menu item to appear
+			"MenuItemVisibilityRate" "0.01"  // time it takes for one menu item to appear
 			"MenuItemHeight"	"28"
 			"GameMenuInset"		"32"
 		}
@@ -194,6 +183,15 @@ Scheme
 				"weight"	"0"
 			}
 		}
+		"DefaultBold"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"16"
+				"weight"	"500"
+			}
+		}
 		"DefaultUnderline"
 		{
 			"1"
@@ -213,6 +211,15 @@ Scheme
 				"weight"	"0"
 			}
 		}
+		"DefaultSmallBold"
+		{
+			"1"
+			{
+				"name"		"Tahoma"
+				"tall"		"12"
+				"weight"	"600"
+			}
+		}
 		"DefaultVerySmall"
 		{
 			"1"
@@ -227,9 +234,9 @@ Scheme
 			"1"
 			{
 				"name"		"Verdana"
-				"tall"		"18"
-				"weight"	"1000"
-				"antialias" "0"
+				"tall"		"20"
+				"weight"	"200"
+				"antialias" "1"
 			}
 		}
 		"UiHeadline"
