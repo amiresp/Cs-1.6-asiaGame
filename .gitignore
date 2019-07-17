@@ -1,0 +1,14 @@
+# Ignore files with extension `.class` & `.sm`
+*.exe
+*.mp3
+*.mp4
+*.avi
+*.ico
+*.png
+*.jpg
+*.dll
+*.cfg
+
+# Ignore git
+.git/
+cstrike/
